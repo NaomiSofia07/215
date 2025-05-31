@@ -77,3 +77,19 @@
 [22:54:03] [User Authenticator #2/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
 [22:54:05] [Server thread/INFO]: JeylK joined the game
 [22:54:05] [Server thread/INFO]: JeylK[/127.58.125.85:45277] logged in with entity id 872 at ([world]4.221024703704303, 111.0, -8.402751467444388)
+[22:56:02] [Server thread/INFO]: JeylK has made the advancement [Monster Hunter]
+[22:56:16] [Server thread/INFO]: JeylK issued server command: /time set day
+[22:56:16] [Server thread/INFO]: [JeylK: Set the time to 1000]
+[22:56:22] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[22:56:22] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[22:56:35] [Server thread/INFO]: JeylK issued server command: /gamerule doImmediateRespawn
+[22:56:40] [Server thread/INFO]: JeylK issued server command: /gamerule doImmediateRespawn true
+[22:56:40] [Server thread/INFO]: [JeylK: Gamerule doImmediateRespawn is now set to: true]
+[22:56:46] [Server thread/INFO]: JeylK issued server command: /gamerule keepInventory true
+[22:56:46] [Server thread/INFO]: [JeylK: Gamerule keepInventory is now set to: true]
+[22:57:15] [Server thread/INFO]: JeylK issued server command: /gamerule playersSleepingPercentage 1
+[22:57:15] [Server thread/INFO]: [JeylK: Gamerule playersSleepingPercentage is now set to: 1]
+[22:57:39] [Server thread/INFO]: JeylK issued server command: /gamerule globalSoundEvents
+[22:57:50] [Server thread/INFO]: JeylK was impaled on a stalagmite
+[22:58:21] [Server thread/INFO]: JeylK was impaled on a stalagmite
+[23:05:46] [Async Chat Thread - #0/INFO]: [Not Secure] <JeylK> 7 111 -15
