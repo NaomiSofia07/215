@@ -108,3 +108,10 @@
 [16:59:17] [Server thread/INFO]: JeylK issued server command: /time set night
 [16:59:17] [Server thread/INFO]: [JeylK: Set the time to 13000]
 [17:00:51] [Server thread/INFO]: Villager Villager['Villager'/128, uuid='1551b188-0cf2-4ac3-b614-f356f88da31c', l='ServerLevel[world]', x=316.16, y=55.00, z=-22.48, cpos=[19, -2], tl=51831, v=true] died, message: 'Villager was slain by Zombie'
+[17:05:52] [Server thread/INFO]: Brandauwu was shot by Stray
+[17:06:00] [Server thread/INFO]: Brandauwu lost connection: Disconnected
+[17:06:00] [Server thread/INFO]: Brandauwu left the game
+[17:12:49] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:glass 64
+[17:12:49] [Server thread/INFO]: [JeylK: Gave 64 [Glass] to JeylK]
+[17:12:50] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:glass 64
+[17:12:50] [Server thread/INFO]: [JeylK: Gave 64 [Glass] to JeylK]
