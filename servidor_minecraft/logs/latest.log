@@ -139,3 +139,10 @@
 [17:39:26] [Server thread/INFO]: JeylK[/127.58.125.85:44033] logged in with entity id 15544 at ([world]224.13942991125583, 70.0, 38.81753914521747)
 [17:39:51] [Server thread/INFO]: JeylK issued server command: /gamemode survival
 [17:39:51] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[17:44:05] [User Authenticator #3/INFO]: UUID of player Brandauwu is abac0e45-2b71-3ee4-ae2b-f7603dea5205
+[17:44:06] [Server thread/INFO]: Brandauwu joined the game
+[17:44:06] [Server thread/INFO]: Brandauwu[/127.58.125.85:39683] logged in with entity id 16183 at ([world]339.69999998807907, 67.5625, 14.762499988079071)
+[17:47:27] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[17:47:27] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[17:48:38] [Server thread/INFO]: JeylK has made the advancement [Enchanter]
+[17:49:03] [Server thread/INFO]: Brandauwu has made the advancement [Enchanter]
