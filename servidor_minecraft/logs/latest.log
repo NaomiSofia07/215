@@ -191,3 +191,7 @@
 [19:53:31] [User Authenticator #6/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
 [19:53:33] [Server thread/INFO]: JeylK joined the game
 [19:53:33] [Server thread/INFO]: JeylK[/127.58.125.85:45689] logged in with entity id 51518 at ([world]141.04950955224166, 122.0, 951.1746588830312)
+[19:56:40] [Server thread/INFO]: JeylK fell from a high place
+[19:59:38] [Server thread/INFO]: JeylK fell from a high place
+[20:03:30] [Server thread/INFO]: JeylK issued server command: /tp -221 ~ 112
+[20:03:30] [Server thread/INFO]: [JeylK: Teleported JeylK to -220.500000, 129.000000, 112.500000]
