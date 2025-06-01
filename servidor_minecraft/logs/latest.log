@@ -210,3 +210,17 @@
 [20:47:36] [Server thread/INFO]: JeylK fell from a high place
 [20:54:00] [Server thread/INFO]: JeylK has made the advancement [We Need to Go Deeper]
 [20:55:30] [Server thread/INFO]: JeylK burned to death
+[20:56:54] [Server thread/INFO]: JeylK issued server command: /gamerule keepInventory
+[20:56:58] [Server thread/INFO]: JeylK issued server command: /gamerule keepInventory true
+[20:56:58] [Server thread/INFO]: [JeylK: Gamerule keepInventory is now set to: true]
+[21:00:57] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[21:00:57] [Server thread/INFO]: Brandauwu has made the advancement [We Need to Go Deeper]
+[21:00:57] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[21:01:01] [Server thread/INFO]: JeylK has made the advancement [Those Were the Days]
+[21:01:05] [Server thread/INFO]: Brandauwu has made the advancement [Those Were the Days]
+[21:01:20] [Server thread/INFO]: JeylK has made the advancement [Oh Shiny]
+[21:01:32] [Server thread/INFO]: Brandauwu was doomed to fall by Piglin
+[21:02:18] [Server thread/INFO]: JeylK has made the advancement [Who is Cutting Onions?]
+[21:02:40] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[21:02:40] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[21:06:14] [Server thread/INFO]: JeylK has made the advancement [War Pigs]
