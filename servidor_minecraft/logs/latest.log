@@ -129,3 +129,13 @@
 [17:28:40] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
 [17:30:19] [Server thread/INFO]: JeylK issued server command: /gamemode survival
 [17:30:19] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[17:33:38] [Server thread/INFO]: JeylK issued server command: /gamemode creative
+[17:33:38] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
+[17:34:30] [Server thread/INFO]: JeylK lost connection: Disconnected
+[17:34:30] [Server thread/INFO]: JeylK left the game
+[17:36:30] [Server thread/INFO]: Server empty for 120 seconds, pausing
+[17:39:24] [User Authenticator #2/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
+[17:39:26] [Server thread/INFO]: JeylK joined the game
+[17:39:26] [Server thread/INFO]: JeylK[/127.58.125.85:44033] logged in with entity id 15544 at ([world]224.13942991125583, 70.0, 38.81753914521747)
+[17:39:51] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[17:39:51] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
