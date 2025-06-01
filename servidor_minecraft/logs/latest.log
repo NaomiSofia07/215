@@ -149,3 +149,21 @@
 [18:06:59] [Server thread/INFO]: Brandauwu drowned
 [18:08:58] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
 [18:08:58] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[18:15:42] [Server thread/INFO]: JeylK issued server command: /tp cd333d6c-64a4-49df-9be6-6fb9c42835cd 208 75.00 64.39
+[18:15:42] [Server thread/INFO]: [JeylK: Teleported Villager to 208.500000, 75.000000, 64.390000]
+[18:16:02] [Server thread/INFO]: JeylK issued server command: /tp cd333d6c-64a4-49df-9be6-6fb9c42835cd 208 77.00 65
+[18:16:02] [Server thread/INFO]: [JeylK: Teleported Villager to 208.500000, 77.000000, 65.500000]
+[18:16:21] [Server thread/INFO]: JeylK issued server command: /tp cd333d6c-64a4-49df-9be6-6fb9c42835cd 208 75.00 64.4765
+[18:16:21] [Server thread/INFO]: [JeylK: Teleported Farmer to 208.500000, 75.000000, 64.476500]
+[18:17:03] [Server thread/INFO]: JeylK issued server command: /tp 0073f3db-d4ea-455d-95e0-0bc270c80a2e 208 75 64
+[18:17:03] [Server thread/INFO]: [JeylK: Teleported Villager to 208.500000, 75.000000, 64.500000]
+[18:17:08] [Server thread/INFO]: JeylK issued server command: /tp 0073f3db-d4ea-455d-95e0-0bc270c80a2e 208 75 64
+[18:17:08] [Server thread/INFO]: [JeylK: Teleported Villager to 208.500000, 75.000000, 64.500000]
+[18:21:35] [Server thread/INFO]: JeylK issued server command: /tp 13ebdfd8-aa6f-4576-a2ea-95f58f92706b 225 75 64
+[18:21:35] [Server thread/INFO]: [JeylK: Teleported Villager to 225.500000, 75.000000, 64.500000]
+[18:21:50] [Server thread/INFO]: JeylK issued server command: /tp a36c392f-9c4a-4168-87bf-0ba99cdf473f 225 75 64
+[18:21:50] [Server thread/INFO]: [JeylK: Teleported Villager to 225.500000, 75.000000, 64.500000]
+[18:27:32] [Server thread/INFO]: JeylK issued server command: /time set night
+[18:27:32] [Server thread/INFO]: [JeylK: Set the time to 13000]
+[18:29:03] [Server thread/INFO]: JeylK issued server command: /tp 225 75 64
+[18:29:03] [Server thread/INFO]: [JeylK: Teleported JeylK to 225.500000, 75.000000, 64.500000]
