@@ -8,3 +8,10 @@
 [00:31:49] [Server thread/INFO]: Brandauwu was killed
 [00:31:49] [Server thread/INFO]: [JeylK: Killed Brandauwu]
 [00:33:50] [Server thread/INFO]: Brandauwu has made the advancement [Best Friends Forever]
+[00:41:45] [Server thread/INFO]: Villager Villager['Nitwit'/4863, uuid='5ba49883-9806-43e9-8bd3-438da8a4be89', l='ServerLevel[world]', x=213.47, y=72.00, z=75.45, cpos=[13, 4], tl=91557, v=true] died, message: 'Nitwit was slain by JeylK'
+[00:46:04] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu
+[00:46:04] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
+[00:46:25] [Server thread/INFO]: Brandauwu has made the advancement [Diamonds!]
+[00:46:33] [Server thread/INFO]: JeylK issued server command: /kill
+[00:46:33] [Server thread/INFO]: JeylK was killed
+[00:46:33] [Server thread/INFO]: [JeylK: Killed JeylK]
