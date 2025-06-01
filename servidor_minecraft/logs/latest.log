@@ -56,3 +56,10 @@
 [01:23:21] [Server thread/INFO]: Villager Villager['Villager'/4891, uuid='b19ff076-f82d-4a13-8e79-e2eb873a9515', l='ServerLevel[world]', x=346.66, y=65.00, z=1.77, cpos=[21, 0], tl=140905, v=true] died, message: 'Villager was slain by Zombie'
 [01:25:41] [Server thread/INFO]: Villager Villager['Butcher'/4861, uuid='3023f0a7-7a47-4bdb-b324-cd26cfd436e5', l='ServerLevel[world]', x=343.70, y=71.26, z=85.02, cpos=[21, 5], tl=144274, v=true] died, message: 'Butcher was slain by Zombie'
 [01:32:25] [Server thread/INFO]: Villager Villager['Villager'/4850, uuid='59a7ab31-0a67-409d-8ab7-15f921ca03bf', l='ServerLevel[world]', x=294.51, y=70.19, z=30.11, cpos=[18, 1], tl=151822, v=true] died, message: 'Villager suffocated in a wall'
+[01:50:53] [Server thread/INFO]: JeylK lost connection: Disconnected
+[01:50:53] [Server thread/INFO]: JeylK left the game
+[01:50:56] [User Authenticator #4/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
+[01:50:57] [Server thread/INFO]: JeylK joined the game
+[01:50:57] [Server thread/INFO]: JeylK[/127.58.125.85:43725] logged in with entity id 29423 at ([world]227.05496685709244, 70.9375, 60.33769799549709)
+[01:57:02] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:bone_meal 64
+[01:57:02] [Server thread/INFO]: [JeylK: Gave 64 [Bone Meal] to JeylK]
