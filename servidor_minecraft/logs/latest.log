@@ -91,3 +91,14 @@
 [16:31:59] [Server thread/INFO]: [JeylK: Teleported JeylK to 281.500000, -16.000000, 184.500000]
 [16:32:18] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
 [16:32:18] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[16:35:01] [Server thread/INFO]: JeylK has reached the goal [Revaulting]
+[16:41:26] [Server thread/INFO]: Brandauwu has reached the goal [Revaulting]
+[16:43:10] [Server thread/INFO]: JeylK issued server command: /gamemode spectator
+[16:43:10] [Server thread/INFO]: [JeylK: Set own game mode to Spectator Mode]
+[16:43:26] [Server thread/INFO]: Brandauwu has made the advancement [Cover Me with Diamonds]
+[16:44:06] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[16:44:06] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[16:49:22] [Server thread/INFO]: Brandauwu was slain by Silverfish
+[16:50:50] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[16:50:50] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[16:53:10] [Async Chat Thread - #4/INFO]: [Not Secure] <JeylK> 274 -31 193
