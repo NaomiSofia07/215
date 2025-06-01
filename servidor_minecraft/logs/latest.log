@@ -80,3 +80,14 @@
 [16:18:45] [Server thread/INFO]: JeylK has made the advancement [Minecraft: Trial(s) Edition]
 [16:19:30] [Server thread/INFO]: Brandauwu has made the advancement [Minecraft: Trial(s) Edition]
 [16:21:55] [Server thread/INFO]: JeylK has made the advancement [Not Today, Thank You]
+[16:24:38] [Server thread/INFO]: JeylK has made the advancement [Under Lock and Key]
+[16:24:58] [Server thread/INFO]: Brandauwu has made the advancement [Under Lock and Key]
+[16:27:55] [Server thread/INFO]: JeylK has made the advancement [Ol' Betsy]
+[16:28:45] [Server thread/INFO]: Brandauwu has made the advancement [Not Today, Thank You]
+[16:29:12] [Server thread/INFO]: Brandauwu was slain by Husk
+[16:29:38] [Server thread/INFO]: JeylK was slain by Silverfish
+[16:29:44] [Async Chat Thread - #2/INFO]: [Not Secure] <JeylK> 281 184
+[16:31:59] [Server thread/INFO]: JeylK issued server command: /tp 281 -16 184
+[16:31:59] [Server thread/INFO]: [JeylK: Teleported JeylK to 281.500000, -16.000000, 184.500000]
+[16:32:18] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[16:32:18] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
