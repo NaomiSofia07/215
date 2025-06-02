@@ -141,3 +141,8 @@
 [17:03:08] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
 [17:08:29] [Server thread/INFO]: Brandauwu lost connection: Disconnected
 [17:08:29] [Server thread/INFO]: Brandauwu left the game
+[17:19:35] [User Authenticator #5/INFO]: UUID of player Brandauwu is abac0e45-2b71-3ee4-ae2b-f7603dea5205
+[17:19:36] [Server thread/INFO]: Brandauwu joined the game
+[17:19:36] [Server thread/INFO]: Brandauwu[/127.58.125.85:58299] logged in with entity id 43818 at ([world]918.3725060062515, 41.0, 174.50200935539144)
+[17:19:37] [Server thread/INFO]: JeylK issued server command: /tp 1874 65 910
+[17:19:37] [Server thread/INFO]: [JeylK: Teleported JeylK to 1874.500000, 65.000000, 910.500000]
