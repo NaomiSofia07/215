@@ -235,3 +235,11 @@
 [20:55:42] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
 [20:55:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Brandauwu> hijo de puta
 [20:56:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Brandauwu> duermo
+[21:04:47] [Server thread/INFO]: JeylK issued server command: /tp -89 150 790
+[21:04:47] [Server thread/INFO]: [JeylK: Teleported JeylK to -88.500000, 150.000000, 790.500000]
+[21:06:55] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 1903 50 884
+[21:06:55] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 1903.500000, 50.000000, 884.500000]
+[21:07:05] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 1903 80 884
+[21:07:05] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 1903.500000, 80.000000, 884.500000]
+[21:07:16] [Server thread/INFO]: JeylK issued server command: /tp 1903 80 884
+[21:07:16] [Server thread/INFO]: [JeylK: Teleported JeylK to 1903.500000, 80.000000, 884.500000]
