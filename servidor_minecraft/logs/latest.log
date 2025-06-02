@@ -212,3 +212,18 @@
 [20:39:09] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 1903 200 884
 [20:39:09] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 1903.500000, 200.000000, 884.500000]
 [20:39:13] [Server thread/INFO]: Brandauwu fell from a high place
+[20:40:51] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[20:40:51] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[20:42:26] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[20:42:26] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[20:48:12] [Async Chat Thread - #24/INFO]: [Not Secure] <Brandauwu> de casualidad no agarraste algun brote de sakura? para no irme a buscar
+[20:48:52] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -89 200 790
+[20:48:52] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -88.500000, 200.000000, 790.500000]
+[20:48:54] [Server thread/INFO]: Brandauwu fell from a high place
+[20:48:58] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -89 200 790
+[20:48:58] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -88.500000, 200.000000, 790.500000]
+[20:49:00] [Server thread/INFO]: Brandauwu fell from a high place
+[20:49:04] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -89 15 790
+[20:49:04] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -88.500000, 15.000000, 790.500000]
+[20:49:09] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -89 150 790
+[20:49:09] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -88.500000, 150.000000, 790.500000]
