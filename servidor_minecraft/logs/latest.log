@@ -177,3 +177,13 @@
 [19:41:05] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -207.500000, 100.000000, 110.500000]
 [19:41:12] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -208 150 110
 [19:41:12] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -207.500000, 150.000000, 110.500000]
+[19:49:18] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[19:49:18] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[19:50:16] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -208 150 110
+[19:50:16] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -207.500000, 150.000000, 110.500000]
+[19:50:18] [Server thread/INFO]: Brandauwu fell from a high place
+[19:50:27] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu -208 150 110
+[19:50:27] [Server thread/INFO]: [JeylK: Teleported Brandauwu to -207.500000, 150.000000, 110.500000]
+[19:51:02] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
+[19:51:02] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[19:56:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Brandauwu> ra
