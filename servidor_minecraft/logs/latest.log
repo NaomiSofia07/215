@@ -114,3 +114,6 @@
 [15:56:38] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
 [15:59:39] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 307 69 5
 [15:59:39] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 307.500000, 69.000000, 5.500000]
+[16:10:07] [Async Chat Thread - #8/INFO]: [Not Secure] <JeylK> 1874 65 910
+[16:10:21] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu
+[16:10:21] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
