@@ -70,3 +70,15 @@
 [14:54:54] [User Authenticator #0/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
 [14:54:57] [Server thread/INFO]: JeylK joined the game
 [14:54:57] [Server thread/INFO]: JeylK[/127.58.125.85:44477] logged in with entity id 28 at ([world]228.44043532454788, 71.0, 80.74122595990141)
+[15:07:43] [Server thread/INFO]: JeylK lost connection: Disconnected
+[15:07:43] [Server thread/INFO]: JeylK left the game
+[15:09:20] [User Authenticator #1/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
+[15:09:22] [Server thread/INFO]: JeylK joined the game
+[15:09:22] [Server thread/INFO]: JeylK[/127.58.125.85:54315] logged in with entity id 5860 at ([world]1483.3418256936172, 68.0, -1075.487500011921)
+[15:09:32] [Server thread/INFO]: JeylK lost connection: Disconnected
+[15:09:32] [Server thread/INFO]: JeylK left the game
+[15:11:15] [User Authenticator #2/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
+[15:11:17] [Server thread/INFO]: JeylK joined the game
+[15:11:17] [Server thread/INFO]: JeylK[/127.58.125.85:55457] logged in with entity id 6091 at ([world]1483.3418256936172, 68.0, -1075.487500011921)
+[15:13:59] [Server thread/INFO]: JeylK lost connection: Disconnected
+[15:13:59] [Server thread/INFO]: JeylK left the game
