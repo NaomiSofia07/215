@@ -342,3 +342,12 @@
 [23:38:49] [Async Chat Thread - #58/INFO]: [Not Secure] <Brandauwu> 22 diamantes
 [23:38:55] [Server thread/INFO]: Brandauwu lost connection: Disconnected
 [23:38:55] [Server thread/INFO]: Brandauwu left the game
+[23:45:39] [Server thread/INFO]: JeylK fell from a high place
+[23:48:00] [Server thread/INFO]: JeylK issued server command: /gamemode spectator
+[23:48:00] [Server thread/INFO]: [JeylK: Set own game mode to Spectator Mode]
+[23:48:07] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[23:48:07] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[23:48:30] [Server thread/INFO]: JeylK issued server command: /gamemode creative
+[23:48:30] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
+[23:49:42] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[23:49:42] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
