@@ -123,3 +123,7 @@
 [16:22:57] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
 [16:23:32] [Server thread/INFO]: JeylK issued server command: /tp 1874 65 910
 [16:23:32] [Server thread/INFO]: [JeylK: Teleported JeylK to 1874.500000, 65.000000, 910.500000]
+[16:27:20] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu
+[16:27:20] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
+[16:28:40] [Server thread/INFO]: JeylK issued server command: /tp 1874 65 910
+[16:28:40] [Server thread/INFO]: [JeylK: Teleported JeylK to 1874.500000, 65.000000, 910.500000]
