@@ -133,3 +133,7 @@
 [16:41:46] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 307.500000, 69.000000, 5.500000]
 [16:42:32] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu JeylK
 [16:42:32] [Server thread/INFO]: [JeylK: Teleported Brandauwu to JeylK]
+[16:49:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Brandauwu> llevame pa mi casa sapo
+[16:49:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Brandauwu> que no puso punto de spawn
+[16:49:36] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 307 69 5
+[16:49:36] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 307.500000, 69.000000, 5.500000]
