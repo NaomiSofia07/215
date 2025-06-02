@@ -154,3 +154,6 @@
 [17:37:05] [User Authenticator #6/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
 [17:37:05] [Server thread/INFO]: JeylK joined the game
 [17:37:05] [Server thread/INFO]: JeylK[/127.58.125.85:44699] logged in with entity id 48086 at ([world]1874.9104975641023, 65.0, 912.4229240472641)
+[17:44:52] [Server thread/INFO]: JeylK lost connection: Disconnected
+[17:44:52] [Server thread/INFO]: JeylK left the game
+[17:46:52] [Server thread/INFO]: Server empty for 120 seconds, pausing
