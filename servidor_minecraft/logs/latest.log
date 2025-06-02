@@ -326,3 +326,13 @@
 [23:12:21] [Async Chat Thread - #52/INFO]: [Not Secure] <Brandauwu> ya encontre el cofre
 [23:13:24] [Server thread/INFO]: JeylK issued server command: /tp 1903 80 884
 [23:13:24] [Server thread/INFO]: [JeylK: Teleported JeylK to 1903.500000, 80.000000, 884.500000]
+[23:26:06] [Server thread/INFO]: Villager Villager['Villager'/98847, uuid='34f26dd1-63b3-4c8f-9bfa-867021f5e6c2', l='ServerLevel[world]', x=1294.11, y=68.00, z=1784.49, cpos=[80, 111], tl=47488, v=true] died, message: 'Villager was slain by Zombie'
+[23:27:21] [Server thread/INFO]: JeylK fell from a high place
+[23:27:41] [Server thread/INFO]: JeylK issued server command: /gamemode spectator
+[23:27:41] [Server thread/INFO]: [JeylK: Set own game mode to Spectator Mode]
+[23:27:46] [Async Chat Thread - #54/INFO]: [Not Secure] <Brandauwu> ando crazy con los diamantes
+[23:27:48] [Server thread/INFO]: JeylK issued server command: /gamemode creative
+[23:27:48] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
+[23:27:51] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[23:27:51] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[23:27:55] [Async Chat Thread - #54/INFO]: [Not Secure] <JeylK> xdd
