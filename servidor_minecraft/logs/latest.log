@@ -295,3 +295,19 @@
 [22:33:30] [Async Chat Thread - #42/INFO]: [Not Secure] <JeylK> no
 [22:33:33] [Async Chat Thread - #42/INFO]: [Not Secure] <Brandauwu> joder
 [22:35:02] [Async Chat Thread - #44/INFO]: [Not Secure] <JeylK> duerme
+[22:43:18] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu 1903 80 884
+[22:43:18] [Server thread/INFO]: [JeylK: Teleported Brandauwu to 1903.500000, 80.000000, 884.500000]
+[22:43:27] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu
+[22:43:27] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
+[22:43:44] [Server thread/INFO]: JeylK issued server command: /gamemode spectator
+[22:43:44] [Server thread/INFO]: [JeylK: Set own game mode to Spectator Mode]
+[22:43:49] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[22:43:49] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[22:43:56] [Server thread/INFO]: JeylK issued server command: /gamemode spectator Brandauwu
+[22:43:56] [Server thread/INFO]: [JeylK: Set Brandauwu's game mode to Spectator Mode]
+[22:45:48] [Server thread/INFO]: JeylK issued server command: /effect give Brandauwu minecraft:speed 60 5
+[22:45:48] [Server thread/INFO]: [JeylK: Applied effect Speed to Brandauwu]
+[22:46:40] [Server thread/INFO]: Villager Villager['Nitwit'/98828, uuid='717c71f3-33de-4b80-bba4-f667e5a36acf', l='ServerLevel[world]', x=1286.28, y=68.56, z=1809.37, cpos=[80, 113], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
+[22:47:00] [Server thread/INFO]: JeylK issued server command: /gamemode survival Brandauwu
+[22:47:00] [Server thread/INFO]: [JeylK: Set Brandauwu's game mode to Survival Mode]
+[22:49:54] [Server thread/INFO]: Villager Villager['Villager'/98876, uuid='4a7b366b-2ab1-4599-9f5b-40bace2d176b', l='ServerLevel[world]', x=1251.48, y=68.43, z=1802.59, cpos=[78, 112], tl=4004, v=true] died, message: 'Villager tried to swim in lava'
