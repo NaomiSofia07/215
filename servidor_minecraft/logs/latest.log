@@ -27,3 +27,16 @@
 [01:56:42] [Server thread/INFO]: [JeylK: Gave 30 [Creaking Heart] to JeylK]
 [02:03:38] [Server thread/INFO]: JeylK issued server command: /tp 307 69 5
 [02:03:38] [Server thread/INFO]: [JeylK: Teleported JeylK to 307.500000, 69.000000, 5.500000]
+[02:05:49] [Server thread/INFO]: JeylK burned to death
+[02:05:56] [Server thread/INFO]: JeylK issued server command: /tp 307 69 5
+[02:05:56] [Server thread/INFO]: [JeylK: Teleported JeylK to 307.500000, 69.000000, 5.500000]
+[02:13:06] [Server thread/INFO]: JeylK issued server command: /kill
+[02:13:06] [Server thread/INFO]: JeylK was killed
+[02:13:06] [Server thread/INFO]: [JeylK: Killed JeylK]
+[02:13:17] [Async Chat Thread - #62/INFO]: [Not Secure] <Brandauwu> mime
+[02:15:21] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:purple_concrete 64
+[02:15:21] [Server thread/INFO]: [JeylK: Gave 64 [Purple Concrete] to JeylK]
+[02:15:21] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:purple_concrete 64
+[02:15:21] [Server thread/INFO]: [JeylK: Gave 64 [Purple Concrete] to JeylK]
+[02:15:45] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:purple_carpet 64
+[02:15:45] [Server thread/INFO]: [JeylK: Gave 64 [Purple Carpet] to JeylK]
