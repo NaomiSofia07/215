@@ -11,3 +11,9 @@
 [01:21:30] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
 [01:21:38] [Server thread/INFO]: JeylK issued server command: /gamemode survival
 [01:21:38] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
+[01:35:29] [User Authenticator #10/INFO]: UUID of player Brandauwu is abac0e45-2b71-3ee4-ae2b-f7603dea5205
+[01:35:30] [Server thread/INFO]: Brandauwu joined the game
+[01:35:30] [Server thread/INFO]: Brandauwu[/127.58.125.85:39185] logged in with entity id 126170 at ([world]2310.9391934866803, 72.0, 1216.072456304897)
+[01:35:51] [Async Chat Thread - #60/INFO]: [Not Secure] <Brandauwu> mimete
+[01:40:32] [Server thread/INFO]: JeylK lost connection: Disconnected
+[01:40:32] [Server thread/INFO]: JeylK left the game
