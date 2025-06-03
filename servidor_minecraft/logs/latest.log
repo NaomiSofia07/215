@@ -44,3 +44,17 @@
 [02:22:19] [Server thread/INFO]: [JeylK: Gave 64 [Purple Wool] to JeylK]
 [02:25:22] [Async Chat Thread - #64/INFO]: [Not Secure] <Brandauwu> ajoloteeeees
 [02:25:26] [Async Chat Thread - #64/INFO]: [Not Secure] <Brandauwu> trae cubeta pue
+[02:26:14] [Server thread/INFO]: JeylK issued server command: /tp Brandauwu
+[02:26:14] [Server thread/INFO]: [JeylK: Teleported JeylK to Brandauwu]
+[02:26:23] [Server thread/INFO]: JeylK has made the advancement [The Cutest Predator]
+[02:29:16] [Server thread/INFO]: Brandauwu has made the advancement [The Cutest Predator]
+[02:29:37] [Server thread/INFO]: JeylK issued server command: /kill
+[02:29:37] [Server thread/INFO]: JeylK was killed
+[02:29:37] [Server thread/INFO]: [JeylK: Killed JeylK]
+[02:29:46] [Server thread/INFO]: Brandauwu lost connection: Timed out
+[02:29:46] [Server thread/INFO]: Brandauwu left the game
+[02:29:56] [User Authenticator #12/INFO]: UUID of player Brandauwu is abac0e45-2b71-3ee4-ae2b-f7603dea5205
+[02:29:57] [Server thread/INFO]: Brandauwu joined the game
+[02:29:57] [Server thread/INFO]: Brandauwu[/127.58.125.85:35193] logged in with entity id 140849 at ([world]1221.4689604523319, -10.0, 531.5332176259542)
+[02:30:51] [Server thread/INFO]: Brandauwu lost connection: Disconnected
+[02:30:51] [Server thread/INFO]: Brandauwu left the game
