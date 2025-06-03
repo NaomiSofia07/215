@@ -21,3 +21,9 @@
 [01:52:35] [User Authenticator #11/INFO]: UUID of player JeylK is 7d6053e3-ad35-3e64-9560-931cbc77a1a5
 [01:52:36] [Server thread/INFO]: JeylK joined the game
 [01:52:36] [Server thread/INFO]: JeylK[/127.58.125.85:53429] logged in with entity id 130943 at ([world]1882.9450881942118, 65.0, 906.0967352165795)
+[01:56:19] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:glass 64
+[01:56:19] [Server thread/INFO]: [JeylK: Gave 64 [Glass] to JeylK]
+[01:56:42] [Server thread/INFO]: JeylK issued server command: /give JeylK minecraft:creaking_heart 30
+[01:56:42] [Server thread/INFO]: [JeylK: Gave 30 [Creaking Heart] to JeylK]
+[02:03:38] [Server thread/INFO]: JeylK issued server command: /tp 307 69 5
+[02:03:38] [Server thread/INFO]: [JeylK: Teleported JeylK to 307.500000, 69.000000, 5.500000]
