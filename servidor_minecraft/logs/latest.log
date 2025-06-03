@@ -1,3 +1,7 @@
 [00:13:27] [User Authenticator #9/INFO]: UUID of player Brandauwu is abac0e45-2b71-3ee4-ae2b-f7603dea5205
 [00:13:28] [Server thread/INFO]: Brandauwu joined the game
 [00:13:28] [Server thread/INFO]: Brandauwu[/127.58.125.85:52265] logged in with entity id 115541 at ([world]1932.5, 64.0, 942.5)
+[00:59:31] [Server thread/INFO]: JeylK issued server command: /gamemode creative
+[00:59:31] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
+[01:00:00] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[01:00:00] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
