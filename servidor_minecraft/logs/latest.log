@@ -7,3 +7,7 @@
 [01:00:00] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
 [01:11:04] [Server thread/INFO]: Brandauwu lost connection: Disconnected
 [01:11:04] [Server thread/INFO]: Brandauwu left the game
+[01:21:30] [Server thread/INFO]: JeylK issued server command: /gamemode creative
+[01:21:30] [Server thread/INFO]: [JeylK: Set own game mode to Creative Mode]
+[01:21:38] [Server thread/INFO]: JeylK issued server command: /gamemode survival
+[01:21:38] [Server thread/INFO]: [JeylK: Set own game mode to Survival Mode]
